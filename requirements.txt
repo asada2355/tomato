@@ -1,0 +1,7 @@
+fastmcp
+joblib
+numpy
+pandas
+scipy
+scikit-learn
+python-dotenv
